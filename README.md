@@ -1,1 +1,1 @@
-# The_Python_Mega_Course_Build_10_Real_World_Applications
+# [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/course/the-python-mega-course/)
